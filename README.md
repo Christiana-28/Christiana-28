@@ -1,19 +1,19 @@
-# 👋 Christiana Ogunjobi
+ Christiana Ogunjobi
 ---
 
-## 👩‍💻 Sobre mí
+##  Sobre mí
 Soy una estudiante de Desarrollo de Aplicaciones Web con gran motivación por crear soluciones digitales funcionales. Me caracterizo por ser responsable, adaptable y creativa, con interés en el desarrollo front-end.
 
 ---
 
 ## 🧰 Tecnologías
-- HTML  
-- CSS  
-- JavaScript  
-- Java  
-- Git & GitHub  
-- SQL  
-- Linux (Ubuntu)  
+
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Java](https://img.shields.io/badge/Java-red)
+![Git](https://img.shields.io/badge/Git-black)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
 ---
 
