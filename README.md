@@ -2,7 +2,8 @@
 ---
 
 ##  Sobre mí
-Soy una estudiante de Desarrollo de Aplicaciones Web con gran motivación por crear soluciones digitales funcionales. Me caracterizo por ser responsable, adaptable y creativa, con interés en el desarrollo front-end.
+Soy una estudiante de Desarrollo de Aplicaciones Web con gran motivación por crear soluciones digitales funcionales. Me caracterizo por ser responsable, adaptable y creativa, con interés en el desarrollo front-end. 
+Busco oportunidades como desarrolladora web junior, especialmente en front-end, donde pueda seguir aprendiendo y desarrollándome profesionalmente en el sector tecnológico.
 
 ---
 
