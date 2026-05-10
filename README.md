@@ -44,12 +44,13 @@ Aplicación en Java para analizar temperaturas mensuales.
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
-Gmail: christianatemmy06@gmail.com
-LinkedIn: www.linkedin.com/in/christiana-ogunjobi 
-Teléfono: +34 650 574 645
+📧 Gmail: christianatemmy06@gmail.com
 
+💼 LinkedIn: www.linkedin.com/in/christiana-ogunjobi
+
+📱 Teléfono: +34 650 574 645
 
 ---
 
