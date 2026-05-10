@@ -15,6 +15,7 @@ Busco oportunidades como desarrolladora web junior, especialmente en front-end, 
 ![Java](https://img.shields.io/badge/Java-red)
 ![Git](https://img.shields.io/badge/Git-black)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey)
+![Linux](https://img.shields.io/badge/Linux(Ubuntu)-orange)
 
 ---
 
@@ -43,8 +44,12 @@ Aplicación en Java para analizar temperaturas mensuales.
 
 ---
 
-## 🌐 Portfolio online
-👉 https://christiana-28.github.io  
+## 📫 Contacto
+
+Gmail: christianatemmy06@gmail.com
+LinkedIn: www.linkedin.com/in/christiana-ogunjobi 
+Teléfono: +34 650 574 645
+
 
 ---
 
