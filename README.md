@@ -19,6 +19,7 @@ Busco oportunidades como desarrolladora web junior, especialmente en front-end, 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Linux (Ubuntu)](https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=flat&logo=ubuntu&logoColor=white)
 
